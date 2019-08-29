@@ -1,5 +1,6 @@
 CREATE TABLE(
   id INTEGER PRIMARY KEY,
   title TEXT,
-  author_id INTEGER
+  author_id INTEGER,
+  subgenre_id INTEGER
 );
